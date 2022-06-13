@@ -1,0 +1,129 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://www.maxwellanderson.com.br" resolutions="1x" timestamp="1497377309352">
+  <folder name="css">
+    <file name="site_global.css" crc="209376508"/>
+    <file name="master_interno.css" crc="4150814492" ref="segurança-da-informação:intellicar:análise-e-projeto-de-sistemas:algorítmos-e-programação:banco-de-dados:engenharia-de-software"/>
+    <file name="master_master.css" crc="131381551" ref="segurança-da-informação:intellicar:análise-e-projeto-de-sistemas:algorítmos-e-programação:banco-de-dados:index:engenharia-de-software"/>
+    <file name="seguran_a-da-informa__o.css" crc="3869949049" ref="segurança-da-informação"/>
+    <file name="intellicar.css" crc="328560572" ref="intellicar"/>
+    <file name="an_lise-e-projeto-de-sistemas.css" crc="4284078723" ref="análise-e-projeto-de-sistemas"/>
+    <file name="algor_tmos-e-programa__o.css" crc="75304866" ref="algorítmos-e-programação"/>
+    <file name="banco-de-dados.css" crc="3790259039" ref="banco-de-dados"/>
+    <file name="index.css" crc="380539602" ref="index"/>
+    <file name="engenharia-de-software.css" crc="3988543026" ref="engenharia-de-software"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="museutils.js" crc="334180058" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3865564493" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="pie.js" crc="3827607177" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="webpro.js" crc="7309900" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="touchswipe.js" crc="526709374" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:intellicar:algorítmos-e-programação:engenharia-de-software:banco-de-dados:segurança-da-informação:análise-e-projeto-de-sistemas"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4044148610" ref="index"/>
+    <file name="background.jpg" crc="3826313675" ref="index"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:intellicar"/>
+    <file name="expotec-crop-u1497.jpg" crc="4046507172" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:intellicar:engenharia-de-software"/>
+    <file name="simulapro.jpg" crc="4280345029" seo="true" ref="index"/>
+    <file name="pimp.jpg" crc="5764814" seo="true" ref="index"/>
+    <file name="cnpq.jpg" crc="428729476" seo="true" ref="index"/>
+    <file name="universoif03.jpg" crc="3891529650" seo="true" ref="index:intellicar"/>
+    <file name="universoif02.jpg" crc="4010169060" seo="true" ref="index:intellicar"/>
+    <file name="jecit01-crop-u1315.jpg" crc="4089115004" ref="index"/>
+    <file name="palestra.jpg" crc="4108714818" seo="true" ref="index"/>
+    <file name="jecit02.jpg" crc="4105362120" seo="true" ref="index"/>
+    <file name="intelicar01-crop-u1285.jpg" crc="4130934894" ref="index"/>
+    <file name="uniao01-crop-u1360.jpg" crc="34693417" ref="index"/>
+    <file name="uniao02.jpg" crc="4256126677" seo="true" ref="index"/>
+    <file name="reuniao.jpg" crc="3868382333" seo="true" ref="index"/>
+    <file name="picui01-crop-u1404.jpg" crc="4252345241" ref="index"/>
+    <file name="expotec-crop-u1500.jpg" crc="69290182" ref="index"/>
+    <file name="simulapro61x45.jpg" crc="4035236345" seo="true" ref="index"/>
+    <file name="pimp63x45.jpg" crc="394341322" seo="true" ref="index"/>
+    <file name="cnpq68x45.jpg" crc="260435603" seo="true" ref="index"/>
+    <file name="universoif0366x45.jpg" crc="223158907" seo="true" ref="index"/>
+    <file name="universoif0268x45.jpg" crc="346226750" seo="true" ref="index"/>
+    <file name="jecit0160x49.jpg" crc="259059541" seo="true" ref="index"/>
+    <file name="palestra60x45.jpg" crc="4030464349" seo="true" ref="index"/>
+    <file name="jecit0274x45.jpg" crc="4226929889" seo="true" ref="index"/>
+    <file name="intelicar01-crop-u1288.jpg" crc="3818580444" ref="index"/>
+    <file name="uniao01-crop-u1363.jpg" crc="4013416763" ref="index"/>
+    <file name="uniao0260x48.jpg" crc="266647542" seo="true" ref="index"/>
+    <file name="reuniao60x45.jpg" crc="453237512" seo="true" ref="index"/>
+    <file name="picui01-crop-u1407.jpg" crc="4155944886" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:intellicar:engenharia-de-software"/>
+    <file name="intelicar01477x268.jpg" crc="3916428737" seo="true" ref="intellicar"/>
+    <file name="dsc_0001.jpg" crc="324234001" seo="true" ref="intellicar"/>
+    <file name="dsc_0064.jpg" crc="319342413" seo="true" ref="intellicar"/>
+    <file name="dsc_0002 (2).jpg" crc="156676181" seo="true" ref="intellicar"/>
+    <file name="dsc_0003 (2).jpg" crc="4254617436" seo="true" ref="intellicar"/>
+    <file name="dsc_0004 (2).jpg" crc="399805349" seo="true" ref="intellicar"/>
+    <file name="dsc_0009.jpg" crc="3808017102" seo="true" ref="intellicar"/>
+    <file name="dsc_0010.jpg" crc="447500947" seo="true" ref="intellicar"/>
+    <file name="dsc_0019.jpg" crc="195834613" seo="true" ref="intellicar"/>
+    <file name="dsc_0033.jpg" crc="3895767571" seo="true" ref="intellicar"/>
+    <file name="dsc_0034.jpg" crc="19213549" seo="true" ref="intellicar"/>
+    <file name="dsc_0035.jpg" crc="4125977588" seo="true" ref="intellicar"/>
+    <file name="dsc_0065.jpg" crc="4232486715" seo="true" ref="intellicar"/>
+    <file name="20141105_155040.gif" crc="515389437" seo="true" ref="intellicar"/>
+    <file name="expotec-crop-u2387.jpg" crc="4046507172" ref="intellicar"/>
+    <file name="intelicar01.jpg" crc="4283256496" seo="true" ref="intellicar"/>
+    <file name="dsc_000168x45.jpg" crc="148809912" seo="true" ref="intellicar"/>
+    <file name="dsc_006468x45.jpg" crc="3973373458" seo="true" ref="intellicar"/>
+    <file name="dsc_0002 (2)68x45.jpg" crc="43778829" seo="true" ref="intellicar"/>
+    <file name="dsc_0003 (2)68x45.jpg" crc="3815504024" seo="true" ref="intellicar"/>
+    <file name="dsc_0004 (2)68x45.jpg" crc="339596171" seo="true" ref="intellicar"/>
+    <file name="dsc_000968x45.jpg" crc="4199247690" seo="true" ref="intellicar"/>
+    <file name="dsc_001068x45.jpg" crc="3937736934" seo="true" ref="intellicar"/>
+    <file name="dsc_001968x45.jpg" crc="3873674679" seo="true" ref="intellicar"/>
+    <file name="dsc_003368x45.jpg" crc="4005918948" seo="true" ref="intellicar"/>
+    <file name="dsc_003468x45.jpg" crc="351316404" seo="true" ref="intellicar"/>
+    <file name="dsc_003568x45.jpg" crc="131093680" seo="true" ref="intellicar"/>
+    <file name="dsc_006568x45.jpg" crc="149143473" seo="true" ref="intellicar"/>
+    <file name="expotec-crop-u2421.jpg" crc="69290182" ref="intellicar"/>
+    <file name="intelicar01-crop-u2423.jpg" crc="3818580444" ref="intellicar"/>
+    <file name="algoritmos.gif" crc="3934738738" seo="true" ref="algorítmos-e-programação"/>
+    <file name="scratch_ciencia_computacao-scratch_ciencia_computacao-u2119.png" crc="296704846" ref="algorítmos-e-programação"/>
+    <file name="lp_slide01-scratch_ciencia_computacao-u2140.png" crc="12521266" ref="algorítmos-e-programação"/>
+    <file name="20150923_163415-crop-u2960.jpg" crc="253839523" ref="engenharia-de-software"/>
+    <file name="20150923_161808-crop-u3225.jpg" crc="2217582" ref="engenharia-de-software"/>
+    <file name="20150923_161153-crop-u3016.jpg" crc="3928909158" ref="engenharia-de-software"/>
+    <file name="20150923_161404-crop-u3150.jpg" crc="3832147571" ref="engenharia-de-software"/>
+    <file name="pena no livro.jpg" crc="4250524142" seo="true" ref="engenharia-de-software"/>
+    <file name="20150923_161708-crop-u3180.jpg" crc="3766769339" ref="engenharia-de-software"/>
+    <file name="20150923_161748-crop-u3244.jpg" crc="4126164284" ref="engenharia-de-software"/>
+    <file name="20150923_162100.jpg" crc="232138690" seo="true" ref="engenharia-de-software"/>
+    <file name="20150923_163407-crop-u3274.jpg" crc="4038280165" ref="engenharia-de-software"/>
+    <file name="20150923_163415-crop-u3287.jpg" crc="4132622259" ref="engenharia-de-software"/>
+    <file name="20150923_202512-crop-u3302.jpg" crc="146795354" ref="engenharia-de-software"/>
+    <file name="melhores (1)-crop-u3317.jpg" crc="122505579" ref="engenharia-de-software"/>
+    <file name="20150923_161808-crop-u3228.jpg" crc="399452540" ref="engenharia-de-software"/>
+    <file name="20150923_161153-crop-u3035.jpg" crc="4041716746" ref="engenharia-de-software"/>
+    <file name="20150923_161404-crop-u3153.jpg" crc="534086995" ref="engenharia-de-software"/>
+    <file name="pena no livro60x45.jpg" crc="418975218" seo="true" ref="engenharia-de-software"/>
+    <file name="20150923_161708-crop-u3183.jpg" crc="4005411214" ref="engenharia-de-software"/>
+    <file name="20150923_161748-crop-u3247.jpg" crc="4206373191" ref="engenharia-de-software"/>
+    <file name="20150923_162100-crop-u3262.jpg" crc="3798024668" ref="engenharia-de-software"/>
+    <file name="20150923_163407-crop-u3277.jpg" crc="231148280" ref="engenharia-de-software"/>
+    <file name="20150923_163415-crop-u3290.jpg" crc="3988961827" ref="engenharia-de-software"/>
+    <file name="20150923_202512-crop-u3305.jpg" crc="128706342" ref="engenharia-de-software"/>
+    <file name="melhores (1)-crop-u3320.jpg" crc="475977927" ref="engenharia-de-software"/>
+    <file name="banco-de-dados.gif" crc="285191893" seo="true" ref="banco-de-dados"/>
+    <file name="seguranca.jpg" crc="3772292237" seo="true" ref="segurança-da-informação"/>
+  </folder>
+  <file name="index.html" crc="173413421" seo="true" mt="1462111089721" redirect="true"/>
+  <file name="intellicar.html" crc="3835769375" seo="true" mt="1478778415540" redirect="true"/>
+  <file name="algorítmos-e-programação.html" crc="3917487183" seo="true" mt="1462110696145" redirect="true"/>
+  <file name="engenharia-de-software.html" crc="70210968" seo="true" mt="1462110696145" redirect="true"/>
+  <file name="banco-de-dados.html" crc="3827218258" seo="true" mt="1462110696145" redirect="true"/>
+  <file name="segurança-da-informação.html" crc="4017918755" seo="true" mt="1462110696145" redirect="true"/>
+  <file name="análise-e-projeto-de-sistemas.html" crc="120011658" seo="true" mt="1462110696145" redirect="true"/>
+</manifest>
